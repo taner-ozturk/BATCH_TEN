@@ -1,0 +1,13 @@
+/.DS_Store
+/.eslintignore
+/.forceignore
+/.husky
+/.prettierignore
+/.prettierrc
+/.sf
+/.sfdx
+/.vscode
+/config
+/jest.config.js
+/package.json
+/sfdx-project.json
